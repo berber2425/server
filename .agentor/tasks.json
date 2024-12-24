@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TA-1",
+    "title": "Initial GraphQL Server Setup",
+    "description": "Set up the basic GraphQL server structure with Apollo Server, Express, and TypeScript",
+    "assigned_to": "backendDev",
+    "status": "PLANNED",
+    "priority": "HIGH",
+    "dependencies": [],
+    "created_at": "2023-12-23T15:00:00Z",
+    "updated_at": "2023-12-23T15:00:00Z",
+    "related_docs": ["docs/public/api/graphql/setup.md"]
+  }
+]
